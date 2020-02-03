@@ -1,7 +1,7 @@
 # Nurlan Kurbandurdyev - Junior Full Stack Developer
 Russia, Saratov.
 
-<a href="tel:+89675018187" title="Mobile phone">+89675018187</a>
+<a href="tel:+79675018187" title="Mobile phone">+79675018187</a>
 
 <a href="mailto:nurlan.wap3@gmail.com" title="E-mail">nurlan.wap3@gmail.com</a> 
 

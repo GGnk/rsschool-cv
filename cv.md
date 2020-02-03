@@ -2,7 +2,6 @@
 Russia, Saratov.
 
 <a href="tel:+79675018187" title="Mobile phone">+79675018187</a>
-
 <a href="mailto:nurlan.wap3@gmail.com" title="E-mail">nurlan.wap3@gmail.com</a> 
 
 ## Summary

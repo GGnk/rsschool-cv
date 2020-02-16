@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        body {
+            font-size: 1.1rem;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .wrapper {
+            display: flex;
+            max-width: 1024px;
+            margin: 0 auto;
+            flex-wrap: wrap;
+            flex-direction: column;
+            align-items: center;
+        }
+        
+        li {
+            margin-top: 10px
+        }
+
+        img {
+            display: block;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <header>
+            <h1>Resume</h1>
+            <img src="./my-foto.jpg" alt="my-foto" width=300 height="500">
+        </header>
+        <main class="resume">
+            <ol>
+                <li>Nurlan Kurbandurdyev</li>
+                <li>
+                    <ul>
+                        <li>Telephone number: +7 (967)501 81 87;</li>
+                        <li>email: nurlan.wap3@gmail.com</li>
+                    </ul>
+                </li>
+                <li>Good afternoon, My name is Nurlan. I use web programming both in my work, for solving various tasks, and as a hobby. I want to become a professional in the field of web technologies.</li>
+                <li>Latest code:<br>
+                    <code>function solution(str){<br>
+                    return str.split('').reverse().join('');<br>
+                    }
+                    </code>
+                </li>
+                <li>I'm doing assignments Git && SASS(SCSS)</li>
+                <li>Education: Vue.JS, JavaScript, PHP</li>
+                <li>I graduated from the University SGTU them. Gagarin. Engineering education, Department of systems management. I work as a lead engineer.</li>
+            </ol>
+        </main>
+    </div>
+</body>
+</html>
